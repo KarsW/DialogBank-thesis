@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:diaml="http://www.iso.org/diaml" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <text>
+      <div>
+         <u who="Anne">
+            <w xml:id="w1">hello</w>
+            <w xml:id="w2">Jimmy</w>
+            <w xml:id="w5">so</w>
+            <w xml:id="w6">how</w>
+            <w xml:id="w7">do</w>
+            <w xml:id="w8">you</w>
+            <w xml:id="w9">get</w>
+            <w xml:id="w10">most</w>
+            <w xml:id="w11">of</w>
+            <w xml:id="w12">your</w>
+            <w xml:id="w13">news</w>
+            <w xml:id="w39">wow</w>
+            <w xml:id="w40">so</w>
+            <w xml:id="w41">at</w>
+            <w xml:id="w42">what</w>
+            <w xml:id="w43">time</w>
+            <w xml:id="w44">do</w>
+            <w xml:id="w45">you</w>
+            <w xml:id="w46">watch</w>
+            <w xml:id="w47">the</w>
+            <w xml:id="w48">national</w>
+            <w xml:id="w49">news</w>
+            <w xml:id="w63">oh</w>
+            <w xml:id="w64">okay</w>
+            <w xml:id="w65">I</w>
+            <w xml:id="w66">would</w>
+            <w xml:id="w67">probably</w>
+            <w xml:id="w68">be</w>
+            <w xml:id="w69">a</w>
+            <w xml:id="w70">junkie</w>
+            <w xml:id="w71">or</w>
+            <w xml:id="w72">watch</w>
+            <w xml:id="w73">laughter</w>
+            <w xml:id="w74">CNN</w>
+            <w xml:id="w75">a</w>
+            <w xml:id="w76">lot</w>
+            <w xml:id="w77">but</w>
+            <w xml:id="w78">I</w>
+            <w xml:id="w79">do</w>
+            <w xml:id="w80">don't</w>
+            <w xml:id="w81">uh</w>
+            <w xml:id="w82">subscribe</w>
+            <w xml:id="w83">to</w>
+            <w xml:id="w84">cable</w>
+            <w xml:id="w85">because</w>
+            <w xml:id="w86">of</w>
+            <w xml:id="w87">the</w>
+            <w xml:id="w88">poor</w>
+            <w xml:id="w89">service</w>
+            <w xml:id="w90">and</w>
+            <w xml:id="w91">also</w>
+            <w xml:id="w92">well</w>
+            <w xml:id="w93">because</w>
+            <w xml:id="w94">I</w>
+            <w xml:id="w95">give</w>
+            <w xml:id="w96">to</w>
+            <w xml:id="w97">the</w>
+            <w xml:id="w98">united</w>
+            <w xml:id="w99">way</w>
+            <w xml:id="w100">so</w>
+            <w xml:id="w101">I</w>
+            <w xml:id="w102">figured</w>
+            <w xml:id="w103">that</w>
+            <w xml:id="w104">amount</w>
+            <w xml:id="w105">of</w>
+            <w xml:id="w106">money</w>
+            <w xml:id="w107">I</w>
+            <w xml:id="w108">just</w>
+            <w xml:id="w109">donate</w>
+            <w xml:id="w110">that</w>
+            <w xml:id="w118">yeah</w>
+            <w xml:id="w119">I</w>
+            <w xml:id="w120">take</w>
+            <w xml:id="w121">away</w>
+            <w xml:id="w122">uh</w>
+            <w xml:id="w123">an</w>
+            <w xml:id="w124">addiction</w>
+            <w xml:id="w125">laughter</w>
+            <w xml:id="w128">well</w>
+            <w xml:id="w129">I</w>
+            <w xml:id="w174">right</w>
+            <w xml:id="w202">yeah</w>
+            <w xml:id="w218">what</w>
+            <w xml:id="w219">what</w>
+            <w xml:id="w220">uh</w>
+            <w xml:id="w221">newspapers</w>
+            <w xml:id="w222">do</w>
+            <w xml:id="w223">you</w>
+            <w xml:id="w224">read</w>
+            <w xml:id="w257">okay</w>
+            <w xml:id="w258">for</w>
+            <w xml:id="w259">a</w>
+            <w xml:id="w260">while</w>
+            <w xml:id="w261">there</w>
+            <w xml:id="w262">I</w>
+            <w xml:id="w263">I</w>
+            <w xml:id="w264">I</w>
+            <w xml:id="w265">uh</w>
+            <w xml:id="w266">subscribed</w>
+            <w xml:id="w267">to</w>
+            <w xml:id="w268">NEW</w>
+            <w xml:id="w269">YORK</w>
+            <w xml:id="w270">TIMES</w>
+            <w xml:id="w271">a</w>
+            <w xml:id="w272">actually</w>
+            <w xml:id="w273">a</w>
+            <w xml:id="w274">couple</w>
+            <w xml:id="w275">of</w>
+            <w xml:id="w276">newspapers</w>
+            <w xml:id="w277">because</w>
+            <w xml:id="w278">uh</w>
+            <w xml:id="w279">you</w>
+            <w xml:id="w280">know</w>
+            <w xml:id="w281">my</w>
+            <w xml:id="w282">fiancé</w>
+            <w xml:id="w283">he</w>
+            <w xml:id="w284">was</w>
+            <w xml:id="w285">unemployed</w>
+            <w xml:id="w286">for</w>
+            <w xml:id="w287">a</w>
+            <w xml:id="w288">while</w>
+            <w xml:id="w289">so</w>
+            <w xml:id="w290">we</w>
+            <w xml:id="w291">really</w>
+            <w xml:id="w292">needed</w>
+            <w xml:id="w293">to</w>
+            <w xml:id="w294">look</w>
+            <w xml:id="w295">at</w>
+            <w xml:id="w296">the</w>
+            <w xml:id="w297">inhaling</w>
+            <w xml:id="w298">the</w>
+            <w xml:id="w299">want</w>
+            <w xml:id="w300">help</w>
+            <w xml:id="w301">wanted</w>
+            <w xml:id="w302">ads</w>
+            <w xml:id="w304">and</w>
+            <w xml:id="w305">so</w>
+            <w xml:id="w306">often</w>
+            <w xml:id="w307">they</w>
+            <w xml:id="w308">they</w>
+            <w xml:id="w309">tr</w>
+            <w xml:id="w310">the</w>
+            <w xml:id="w311">newspapers</w>
+            <w xml:id="w312">are</w>
+            <w xml:id="w313">trying</w>
+            <w xml:id="w314">to</w>
+            <w xml:id="w315">compete</w>
+            <w xml:id="w316">with</w>
+            <w xml:id="w317">a</w>
+            <w xml:id="w318">lot</w>
+            <w xml:id="w319">of</w>
+            <w xml:id="w320">other</w>
+            <w xml:id="w321">sources</w>
+            <w xml:id="w322">of</w>
+            <w xml:id="w323">newspape</w>
+            <w xml:id="w324">uh</w>
+            <w xml:id="w325">news</w>
+            <w xml:id="w327">and</w>
+            <w xml:id="w328">I</w>
+            <w xml:id="w329">don't</w>
+            <w xml:id="w330">know</w>
+            <w xml:id="w331">NEW</w>
+            <w xml:id="w332">YORK</w>
+            <w xml:id="w333">TIMES</w>
+            <w xml:id="w334">is</w>
+            <w xml:id="w335">okay</w>
+            <w xml:id="w336">but</w>
+            <w xml:id="w337">uh</w>
+            <w xml:id="w338">when</w>
+            <w xml:id="w339">you</w>
+            <w xml:id="w340">read</w>
+            <w xml:id="w341">a</w>
+            <w xml:id="w342">lot</w>
+            <w xml:id="w343">of</w>
+            <w xml:id="w344">this</w>
+            <w xml:id="w345">stuff</w>
+            <w xml:id="w346">the</w>
+            <w xml:id="w347">the</w>
+            <w xml:id="w348">quality</w>
+            <w xml:id="w349">of</w>
+            <w xml:id="w350">the</w>
+            <w xml:id="w351">writing</w>
+            <w xml:id="w352">has</w>
+            <w xml:id="w353">definitely</w>
+            <w xml:id="w354">gone</w>
+            <w xml:id="w355">down</w>
+            <w xml:id="w356">in</w>
+            <w xml:id="w357">the</w>
+            <w xml:id="w358">last</w>
+            <w xml:id="w359">ten</w>
+            <w xml:id="w360">years</w>
+            <w xml:id="w361">or</w>
+            <w xml:id="w362">so</w>
+            <w xml:id="w363">but</w>
+            <w xml:id="w365">but</w>
+            <w xml:id="w366">uh</w>
+            <w xml:id="w367">I</w>
+            <w xml:id="w368">mean</w>
+            <w xml:id="w369">they</w>
+            <w xml:id="w370">they</w>
+            <w xml:id="w371">say</w>
+            <w xml:id="w372">it's</w>
+            <w xml:id="w373">like</w>
+            <w xml:id="w374">the</w>
+            <w xml:id="w375">sixth</w>
+            <w xml:id="w376">grade</w>
+            <w xml:id="w377">reading</w>
+            <w xml:id="w378">level</w>
+            <w xml:id="w380">but</w>
+            <w xml:id="w381">I</w>
+            <w xml:id="w382">swear</w>
+            <w xml:id="w383">itt's</w>
+            <w xml:id="w384">at</w>
+            <w xml:id="w385">least</w>
+            <w xml:id="w386">second</w>
+            <w xml:id="w387">or</w>
+            <w xml:id="w388">third</w>
+            <w xml:id="w389">grade</w>
+            <w xml:id="w391">sometimes</w>
+            <w xml:id="w399">NPR</w>
+            <w xml:id="w401">that's</w>
+            <w xml:id="w402">pretty</w>
+            <w xml:id="w403">good</w>
+            <w xml:id="w404">I</w>
+            <w xml:id="w405">like</w>
+            <w xml:id="w406">listening</w>
+            <w xml:id="w407">to</w>
+            <w xml:id="w408">that</w>
+            <w xml:id="w409">when</w>
+            <w xml:id="w410">I'm</w>
+            <w xml:id="w411">in</w>
+            <w xml:id="w412">the</w>
+            <w xml:id="w413">car</w>
+            <w xml:id="w414">a</w>
+            <w xml:id="w415">long</w>
+            <w xml:id="w416">enough</w>
+            <w xml:id="w417">time</w>
+            <w xml:id="w418">to</w>
+            <w xml:id="w419">to</w>
+            <w xml:id="w420">listen</w>
+            <w xml:id="w421">to</w>
+            <w xml:id="w422">it</w>
+            <w xml:id="w423">because</w>
+            <w xml:id="w424">I</w>
+            <w xml:id="w467">uh</w>
+            <w xml:id="w490">right</w>
+            <w xml:id="w491">sorry</w>
+            <w xml:id="w492">I</w>
+            <w xml:id="w493">have</w>
+            <w xml:id="w494">to</w>
+            <w xml:id="w495">go</w>
+            <w xml:id="w496">now</w>
+            <w xml:id="w497">see</w>
+            <w xml:id="w498">you</w>
+            <w xml:id="w499">Jimmy</w>
+         </u>
+         <u who="Jimmy">
+            <w xml:id="w3">hello</w>
+            <w xml:id="w4">Anne</w>
+            <w xml:id="w14">well</w>
+            <w xml:id="w15">I</w>
+            <w xml:id="w16">uh</w>
+            <w xml:id="w17">watch</w>
+            <w xml:id="w18">the</w>
+            <w xml:id="w19">uh</w>
+            <w xml:id="w20">national</w>
+            <w xml:id="w21">news</w>
+            <w xml:id="w22">every</w>
+            <w xml:id="w23">day</w>
+            <w xml:id="w24">I</w>
+            <w xml:id="w25">read</w>
+            <w xml:id="w26">one</w>
+            <w xml:id="w27">or</w>
+            <w xml:id="w28">two</w>
+            <w xml:id="w29">papers</w>
+            <w xml:id="w30">a</w>
+            <w xml:id="w31">day</w>
+            <w xml:id="w32">I</w>
+            <w xml:id="w33">also</w>
+            <w xml:id="w34">tune</w>
+            <w xml:id="w35">into</w>
+            <w xml:id="w36">CNN</w>
+            <w xml:id="w37">a</w>
+            <w xml:id="w38">lot</w>
+            <w xml:id="w50">uh</w>
+            <w xml:id="w51">every</w>
+            <w xml:id="w52">evening</w>
+            <w xml:id="w53">at</w>
+            <w xml:id="w54">six</w>
+            <w xml:id="w55">thirty</w>
+            <w xml:id="w56">I</w>
+            <w xml:id="w57">believe</w>
+            <w xml:id="w58">I</w>
+            <w xml:id="w59">watch</w>
+            <w xml:id="w60">the</w>
+            <w xml:id="w61">national</w>
+            <w xml:id="w62">news</w>
+            <w xml:id="w111">uh-huh</w>
+            <w xml:id="w112">as</w>
+            <w xml:id="w113">opposed</w>
+            <w xml:id="w114">to</w>
+            <w xml:id="w115">paying</w>
+            <w xml:id="w116">for</w>
+            <w xml:id="w117">cable</w>
+            <w xml:id="w126">laughter</w>
+            <w xml:id="w127">yeah</w>
+            <w xml:id="w130">uh</w>
+            <w xml:id="w131">overall</w>
+            <w xml:id="w132">the</w>
+            <w xml:id="w133">quality</w>
+            <w xml:id="w134">of</w>
+            <w xml:id="w135">the</w>
+            <w xml:id="w136">news</w>
+            <w xml:id="w137">you</w>
+            <w xml:id="w138">get</w>
+            <w xml:id="w139">o</w>
+            <w xml:id="w140">off</w>
+            <w xml:id="w141">of</w>
+            <w xml:id="w142">most</w>
+            <w xml:id="w143">uh</w>
+            <w xml:id="w144">sources</w>
+            <w xml:id="w145">I</w>
+            <w xml:id="w146">would</w>
+            <w xml:id="w147">say</w>
+            <w xml:id="w148">is</w>
+            <w xml:id="w149">pretty</w>
+            <w xml:id="w150">low</w>
+            <w xml:id="w151">usually</w>
+            <w xml:id="w152">you</w>
+            <w xml:id="w153">get</w>
+            <w xml:id="w154">pretty</w>
+            <w xml:id="w155">incomplete</w>
+            <w xml:id="w156">coverage</w>
+            <w xml:id="w157">that's</w>
+            <w xml:id="w158">one</w>
+            <w xml:id="w159">of</w>
+            <w xml:id="w160">the</w>
+            <w xml:id="w161">reasons</w>
+            <w xml:id="w162">where</w>
+            <w xml:id="w163">I</w>
+            <w xml:id="w164">why</w>
+            <w xml:id="w165">I</w>
+            <w xml:id="w166">try</w>
+            <w xml:id="w167">and</w>
+            <w xml:id="w168">get</w>
+            <w xml:id="w169">as</w>
+            <w xml:id="w170">many</w>
+            <w xml:id="w171">sources</w>
+            <w xml:id="w172">as</w>
+            <w xml:id="w173">possible</w>
+            <w xml:id="w175">because</w>
+            <w xml:id="w176">if</w>
+            <w xml:id="w177">you</w>
+            <w xml:id="w178">hear</w>
+            <w xml:id="w179">the</w>
+            <w xml:id="w180">same</w>
+            <w xml:id="w181">story</w>
+            <w xml:id="w182">from</w>
+            <w xml:id="w183">three</w>
+            <w xml:id="w184">different</w>
+            <w xml:id="w185">sources</w>
+            <w xml:id="w186">then</w>
+            <w xml:id="w187">you</w>
+            <w xml:id="w188">get</w>
+            <w xml:id="w189">a</w>
+            <w xml:id="w190">much</w>
+            <w xml:id="w191">clearer</w>
+            <w xml:id="w192">picture</w>
+            <w xml:id="w193">of</w>
+            <w xml:id="w194">of</w>
+            <w xml:id="w195">what</w>
+            <w xml:id="w196">is</w>
+            <w xml:id="w197">going</w>
+            <w xml:id="w198">on</w>
+            <w xml:id="w199">you</w>
+            <w xml:id="w200">would</w>
+            <w xml:id="w201">hope</w>
+            <w xml:id="w203">but</w>
+            <w xml:id="w204">still</w>
+            <w xml:id="w205">you</w>
+            <w xml:id="w206">know</w>
+            <w xml:id="w207">hard</w>
+            <w xml:id="w208">to</w>
+            <w xml:id="w209">say</w>
+            <w xml:id="w210">that</w>
+            <w xml:id="w211">what</w>
+            <w xml:id="w212">you've</w>
+            <w xml:id="w213">heard</w>
+            <w xml:id="w214">is</w>
+            <w xml:id="w215">what</w>
+            <w xml:id="w216">really</w>
+            <w xml:id="w217">is</w>
+            <w xml:id="w225">well</w>
+            <w xml:id="w226">I</w>
+            <w xml:id="w227">read</w>
+            <w xml:id="w228">uh</w>
+            <w xml:id="w229">the</w>
+            <w xml:id="w230">local</w>
+            <w xml:id="w231">newspaper</w>
+            <w xml:id="w232">and</w>
+            <w xml:id="w233">I</w>
+            <w xml:id="w234">also</w>
+            <w xml:id="w235">try</w>
+            <w xml:id="w236">and</w>
+            <w xml:id="w237">read</w>
+            <w xml:id="w238">one</w>
+            <w xml:id="w239">of</w>
+            <w xml:id="w240">the</w>
+            <w xml:id="w241">uh</w>
+            <w xml:id="w242">major</w>
+            <w xml:id="w243">dailies</w>
+            <w xml:id="w244">like</w>
+            <w xml:id="w245">the</w>
+            <w xml:id="w246">CHICAGO</w>
+            <w xml:id="w247">TRIBUNE</w>
+            <w xml:id="w248">or</w>
+            <w xml:id="w249">the</w>
+            <w xml:id="w250">NEW</w>
+            <w xml:id="w251">YORK</w>
+            <w xml:id="w252">TIMES</w>
+            <w xml:id="w253">or</w>
+            <w xml:id="w254">something</w>
+            <w xml:id="w255">like</w>
+            <w xml:id="w256">that</w>
+            <w xml:id="w303">uh-huh</w>
+            <w xml:id="w326">right</w>
+            <w xml:id="w364">uh-huh</w>
+            <w xml:id="w379">right</w>
+            <w xml:id="w390">laughter</w>
+            <w xml:id="w392">pretty</w>
+            <w xml:id="w393">low</w>
+            <w xml:id="w394">I</w>
+            <w xml:id="w395">really</w>
+            <w xml:id="w396">like</w>
+            <w xml:id="w397">NRP</w>
+            <w xml:id="w398">radio</w>
+            <w xml:id="w400">yeah</w>
+            <w xml:id="w425">right</w>
+            <w xml:id="w426">I</w>
+            <w xml:id="w427">like</w>
+            <w xml:id="w428">NPR</w>
+            <w xml:id="w429">a</w>
+            <w xml:id="w430">lot</w>
+            <w xml:id="w431">because</w>
+            <w xml:id="w432">uh</w>
+            <w xml:id="w433">instead</w>
+            <w xml:id="w434">of</w>
+            <w xml:id="w435">being</w>
+            <w xml:id="w436">as</w>
+            <w xml:id="w437">your</w>
+            <w xml:id="w438">newspaper</w>
+            <w xml:id="w439">or</w>
+            <w xml:id="w440">your</w>
+            <w xml:id="w441">tv</w>
+            <w xml:id="w442">news</w>
+            <w xml:id="w443">where</w>
+            <w xml:id="w444">you</w>
+            <w xml:id="w445">get</w>
+            <w xml:id="w446">a</w>
+            <w xml:id="w447">five</w>
+            <w xml:id="w448">minute</w>
+            <w xml:id="w449">blurb</w>
+            <w xml:id="w450">or</w>
+            <w xml:id="w451">a</w>
+            <w xml:id="w452">ten</w>
+            <w xml:id="w453">paragraph</w>
+            <w xml:id="w454">blurb</w>
+            <w xml:id="w455">they</w>
+            <w xml:id="w456">go</w>
+            <w xml:id="w457">really</w>
+            <w xml:id="w458">in</w>
+            <w xml:id="w459">depth</w>
+            <w xml:id="w460">on</w>
+            <w xml:id="w461">topics</w>
+            <w xml:id="w462">which</w>
+            <w xml:id="w463">I</w>
+            <w xml:id="w464">think</w>
+            <w xml:id="w465">is</w>
+            <w xml:id="w466">good</w>
+            <w xml:id="w468">and</w>
+            <w xml:id="w469">their</w>
+            <w xml:id="w470">editorial</w>
+            <w xml:id="w471">stand</w>
+            <w xml:id="w472">point</w>
+            <w xml:id="w473">seems</w>
+            <w xml:id="w474">to</w>
+            <w xml:id="w475">be</w>
+            <w xml:id="w476">a</w>
+            <w xml:id="w477">lot</w>
+            <w xml:id="w478">better</w>
+            <w xml:id="w479">than</w>
+            <w xml:id="w480">say</w>
+            <w xml:id="w481">your</w>
+            <w xml:id="w482">major</w>
+            <w xml:id="w483">network</w>
+            <w xml:id="w484">news</w>
+            <w xml:id="w485">and</w>
+            <w xml:id="w486">that</w>
+            <w xml:id="w487">kind</w>
+            <w xml:id="w488">of</w>
+            <w xml:id="w489">thing</w>
+            <w xml:id="w500">okay</w>
+            <w xml:id="w501">goodbye</w>
+            <w xml:id="w502">Anne</w>
+         </u>
+      </div>
+      <div>
+         <spanGrp xml:id="spGr1" type="dialogueVerbalSegment">
+            <span from="#w1" />
+            <span from="#w2" />
+         </spanGrp>
+         <fs xml:id="ds1" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp1" />
+         </fs>
+         <spanGrp xml:id="spGr2" type="dialogueVerbalSegment">
+            <span from="#w3" />
+            <span from="#w4" />
+         </spanGrp>
+         <fs xml:id="ds2" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp2" />
+         </fs>
+         <spanGrp xml:id="spGr3" type="dialogueVerbalSegment">
+            <span from="#w5" />
+            <span from="#w6" />
+            <span from="#w7" />
+            <span from="#w8" />
+            <span from="#w9" />
+            <span from="#w10" />
+            <span from="#w11" />
+            <span from="#w12" />
+            <span from="#w13" />
+         </spanGrp>
+         <fs xml:id="ds3" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp3" />
+         </fs>
+         <spanGrp xml:id="spGr4" type="dialogueVerbalSegment">
+            <span from="#w14" />
+         </spanGrp>
+         <fs xml:id="ds4" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp4" />
+         </fs>
+         <spanGrp xml:id="spGr5" type="dialogueVerbalSegment">
+            <span from="#w14" />
+            <span from="#w15" />
+            <span from="#w17" />
+            <span from="#w18" />
+            <span from="#w20" />
+            <span from="#w21" />
+            <span from="#w22" />
+            <span from="#w23" />
+         </spanGrp>
+         <fs xml:id="ds5" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp5" />
+         </fs>
+         <spanGrp xml:id="spGr6" type="dialogueVerbalSegment">
+            <span from="#w16" />
+         </spanGrp>
+         <fs xml:id="ds6" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp6" />
+         </fs>
+         <spanGrp xml:id="spGr7" type="dialogueVerbalSegment">
+            <span from="#w19" />
+         </spanGrp>
+         <fs xml:id="ds7" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp7" />
+         </fs>
+         <spanGrp xml:id="spGr8" type="dialogueVerbalSegment">
+            <span from="#w24" />
+            <span from="#w25" />
+            <span from="#w26" />
+            <span from="#w27" />
+            <span from="#w28" />
+            <span from="#w29" />
+            <span from="#w30" />
+            <span from="#w31" />
+         </spanGrp>
+         <fs xml:id="ds8" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp8" />
+         </fs>
+         <spanGrp xml:id="spGr9" type="dialogueVerbalSegment">
+            <span from="#w32" />
+            <span from="#w33" />
+            <span from="#w34" />
+            <span from="#w35" />
+            <span from="#w36" />
+            <span from="#w37" />
+            <span from="#w38" />
+         </spanGrp>
+         <fs xml:id="ds9" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp9" />
+         </fs>
+         <spanGrp xml:id="spGr10" type="dialogueVerbalSegment">
+            <span from="#w39" />
+         </spanGrp>
+         <fs xml:id="ds10" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp10" />
+         </fs>
+         <spanGrp xml:id="spGr11" type="dialogueVerbalSegment">
+            <span from="#w40" />
+         </spanGrp>
+         <fs xml:id="ds11" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp11" />
+         </fs>
+         <spanGrp xml:id="spGr12" type="dialogueVerbalSegment">
+            <span from="#w41" />
+            <span from="#w42" />
+            <span from="#w43" />
+            <span from="#w44" />
+            <span from="#w45" />
+            <span from="#w46" />
+            <span from="#w47" />
+            <span from="#w48" />
+            <span from="#w49" />
+         </spanGrp>
+         <fs xml:id="ds12" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp12" />
+         </fs>
+         <spanGrp xml:id="spGr13" type="dialogueVerbalSegment">
+            <span from="#w50" />
+         </spanGrp>
+         <fs xml:id="ds13" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp13" />
+         </fs>
+         <spanGrp xml:id="spGr14" type="dialogueVerbalSegment">
+            <span from="#w51" />
+            <span from="#w52" />
+            <span from="#w53" />
+            <span from="#w54" />
+            <span from="#w55" />
+            <span from="#w56" />
+            <span from="#w57" />
+            <span from="#w58" />
+            <span from="#w59" />
+            <span from="#w60" />
+            <span from="#w61" />
+            <span from="#w62" />
+         </spanGrp>
+         <fs xml:id="ds14" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp14" />
+         </fs>
+         <spanGrp xml:id="spGr15" type="dialogueVerbalSegment">
+            <span from="#w63" />
+         </spanGrp>
+         <fs xml:id="ds15" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp15" />
+         </fs>
+         <spanGrp xml:id="spGr16" type="dialogueVerbalSegment">
+            <span from="#64" />
+         </spanGrp>
+         <fs xml:id="ds16" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp16" />
+         </fs>
+         <spanGrp xml:id="spGr17" type="dialogueVerbalSegment">
+            <span from="#w65" />
+            <span from="#w66" />
+            <span from="#w67" />
+            <span from="#w68" />
+            <span from="#w69" />
+            <span from="#w70" />
+            <span from="#w71" />
+            <span from="#w72" />
+            <span from="#w73" />
+            <span from="#w74" />
+            <span from="#w75" />
+            <span from="#w76" />
+         </spanGrp>
+         <fs xml:id="ds17" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp17" />
+         </fs>
+         <spanGrp xml:id="spGr18" type="dialogueVerbalSegment">
+            <span from="#w77" />
+         </spanGrp>
+         <fs xml:id="ds18" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp18" />
+         </fs>
+         <spanGrp xml:id="spGr19" type="dialogueVerbalSegment">
+            <span from="#w78" />
+            <span from="#w80" />
+            <span from="#w82" />
+            <span from="#w83" />
+            <span from="#w84" />
+         </spanGrp>
+         <fs xml:id="ds19" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp19" />
+         </fs>
+         <spanGrp xml:id="spGr20" type="dialogueVerbalSegment">
+            <span from="#w79" />
+            <span from="#w80" />
+         </spanGrp>
+         <fs xml:id="ds20" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp20" />
+         </fs>
+         <spanGrp xml:id="spGr21" type="dialogueVerbalSegment">
+            <span from="#w81" />
+         </spanGrp>
+         <fs xml:id="ds21" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp21" />
+         </fs>
+         <spanGrp xml:id="spGr22" type="dialogueVerbalSegment">
+            <span from="#w85" />
+            <span from="#w86" />
+            <span from="#w87" />
+            <span from="#w88" />
+            <span from="#w89" />
+            <span from="#w90" />
+            <span from="#w91" />
+            <span from="#w93" />
+            <span from="#w94" />
+            <span from="#w95" />
+            <span from="#w96" />
+            <span from="#w97" />
+            <span from="#w98" />
+            <span from="#w99" />
+         </spanGrp>
+         <fs xml:id="ds22" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp22" />
+         </fs>
+         <spanGrp xml:id="spGr23" type="dialogueVerbalSegment">
+            <span from="#w92" />
+         </spanGrp>
+         <fs xml:id="ds23" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp23" />
+         </fs>
+         <spanGrp xml:id="spGr24" type="dialogueVerbalSegment">
+            <span from="#w100" />
+         </spanGrp>
+         <fs xml:id="ds24" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp24" />
+         </fs>
+         <spanGrp xml:id="spGr25" type="dialogueVerbalSegment">
+            <span from="#w101" />
+            <span from="#w102" />
+            <span from="#w103" />
+            <span from="#w104" />
+            <span from="#w105" />
+            <span from="#w106" />
+            <span from="#w107" />
+            <span from="#w108" />
+            <span from="#w109" />
+            <span from="#w110" />
+         </spanGrp>
+         <fs xml:id="ds25" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp25" />
+         </fs>
+         <spanGrp xml:id="spGr26" type="dialogueVerbalSegment">
+            <span from="#w111" />
+         </spanGrp>
+         <fs xml:id="ds26" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp26" />
+         </fs>
+         <spanGrp xml:id="spGr27" type="dialogueVerbalSegment">
+            <span from="#w112" />
+            <span from="#w113" />
+            <span from="#w114" />
+            <span from="#w115" />
+            <span from="#w116" />
+            <span from="#w117" />
+         </spanGrp>
+         <fs xml:id="ds27" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp27" />
+         </fs>
+         <spanGrp xml:id="spGr28" type="dialogueVerbalSegment">
+            <span from="#w118" />
+         </spanGrp>
+         <fs xml:id="ds28" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp28" />
+         </fs>
+         <spanGrp xml:id="spGr29" type="dialogueVerbalSegment">
+            <span from="#w119" />
+            <span from="#w120" />
+            <span from="#w121" />
+            <span from="#w123" />
+            <span from="#w124" />
+            <span from="#w125" />
+         </spanGrp>
+         <fs xml:id="ds29" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp29" />
+         </fs>
+         <spanGrp xml:id="spGr30" type="dialogueVerbalSegment">
+            <span from="#w122" />
+         </spanGrp>
+         <fs xml:id="ds30" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp30" />
+         </fs>
+         <spanGrp xml:id="spGr31" type="dialogueVerbalSegment">
+            <span from="#w126" />
+         </spanGrp>
+         <fs xml:id="ds31" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp31" />
+         </fs>
+         <spanGrp xml:id="spGr32" type="dialogueVerbalSegment">
+            <span from="#w127" />
+         </spanGrp>
+         <fs xml:id="ds32" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp32" />
+         </fs>
+         <spanGrp xml:id="spGr33" type="dialogueVerbalSegment">
+            <span from="#w128" />
+         </spanGrp>
+         <fs xml:id="ds33" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp33" />
+         </fs>
+         <spanGrp xml:id="spGr34" type="dialogueVerbalSegment">
+            <span from="#w129" />
+         </spanGrp>
+         <fs xml:id="ds34" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp34" />
+         </fs>
+         <spanGrp xml:id="spGr35" type="dialogueVerbalSegment">
+            <span from="#w130" />
+         </spanGrp>
+         <fs xml:id="ds35" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp35" />
+         </fs>
+         <spanGrp xml:id="spGr36" type="dialogueVerbalSegment">
+            <span from="#w131" />
+            <span from="#w132" />
+            <span from="#w133" />
+            <span from="#w134" />
+            <span from="#w135" />
+            <span from="#w136" />
+            <span from="#w137" />
+            <span from="#w138" />
+            <span from="#w141" />
+            <span from="#w142" />
+            <span from="#w144" />
+            <span from="#w145" />
+            <span from="#w146" />
+            <span from="#w147" />
+            <span from="#w148" />
+            <span from="#w149" />
+            <span from="#w150" />
+         </spanGrp>
+         <fs xml:id="ds36" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp36" />
+         </fs>
+         <spanGrp xml:id="spGr37" type="dialogueVerbalSegment">
+            <span from="#w139" />
+            <span from="#w140" />
+         </spanGrp>
+         <fs xml:id="ds37" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp37" />
+         </fs>
+         <spanGrp xml:id="spGr38" type="dialogueVerbalSegment">
+            <span from="#w143" />
+         </spanGrp>
+         <fs xml:id="ds38" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp38" />
+         </fs>
+         <spanGrp xml:id="spGr39" type="dialogueVerbalSegment">
+            <span from="#w51" />
+            <span from="#w52" />
+            <span from="#w53" />
+            <span from="#w54" />
+            <span from="#w55" />
+            <span from="#w56" />
+         </spanGrp>
+         <fs xml:id="ds39" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp39" />
+         </fs>
+         <spanGrp xml:id="spGr40" type="dialogueVerbalSegment">
+            <span from="#w157" />
+            <span from="#w158" />
+            <span from="#w159" />
+            <span from="#w160" />
+            <span from="#w161" />
+            <span from="#w164" />
+            <span from="#w165" />
+            <span from="#w166" />
+            <span from="#w167" />
+            <span from="#w168" />
+            <span from="#w169" />
+            <span from="#w170" />
+            <span from="#w171" />
+            <span from="#w172" />
+            <span from="#w173" />
+         </spanGrp>
+         <fs xml:id="ds40" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp40" />
+         </fs>
+         <spanGrp xml:id="spGr41" type="dialogueVerbalSegment">
+            <span from="#w162" />
+            <span from="#w163" />
+            <span from="#w164" />
+            <span from="#w165" />
+         </spanGrp>
+         <fs xml:id="ds41" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp41" />
+         </fs>
+         <spanGrp xml:id="spGr42" type="dialogueVerbalSegment">
+            <span from="#w174" />
+         </spanGrp>
+         <fs xml:id="ds42" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp42" />
+         </fs>
+         <spanGrp xml:id="spGr43" type="dialogueVerbalSegment">
+            <span from="#w175" />
+            <span from="#w176" />
+            <span from="#w177" />
+            <span from="#w178" />
+            <span from="#w179" />
+            <span from="#w180" />
+            <span from="#w181" />
+            <span from="#w182" />
+            <span from="#w183" />
+            <span from="#w184" />
+            <span from="#w185" />
+            <span from="#w186" />
+            <span from="#w187" />
+            <span from="#w188" />
+            <span from="#w189" />
+            <span from="#w190" />
+            <span from="#w191" />
+            <span from="#w192" />
+            <span from="#w194" />
+            <span from="#w195" />
+            <span from="#w196" />
+            <span from="#w197" />
+            <span from="#w198" />
+         </spanGrp>
+         <fs xml:id="ds43" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp43" />
+         </fs>
+         <spanGrp xml:id="spGr44" type="dialogueVerbalSegment">
+            <span from="#w193" />
+            <span from="#w194" />
+         </spanGrp>
+         <fs xml:id="ds44" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp44" />
+         </fs>
+         <spanGrp xml:id="spGr45" type="dialogueVerbalSegment">
+            <span from="#w202" />
+         </spanGrp>
+         <fs xml:id="ds45" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp45" />
+         </fs>
+         <spanGrp xml:id="spGr46" type="dialogueVerbalSegment">
+            <span from="#w203" />
+         </spanGrp>
+         <fs xml:id="ds46" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp46" />
+         </fs>
+         <spanGrp xml:id="spGr47" type="dialogueVerbalSegment">
+            <span from="#w204" />
+            <span from="#w205" />
+            <span from="#w206" />
+            <span from="#w207" />
+            <span from="#w208" />
+            <span from="#w209" />
+            <span from="#w210" />
+            <span from="#w211" />
+            <span from="#w212" />
+            <span from="#w213" />
+            <span from="#w214" />
+            <span from="#w215" />
+            <span from="#w216" />
+            <span from="#w217" />
+         </spanGrp>
+         <fs xml:id="ds47" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp47" />
+         </fs>
+         <spanGrp xml:id="spGr48" type="dialogueVerbalSegment">
+            <span from="#w218" />
+         </spanGrp>
+         <fs xml:id="ds48" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp48" />
+         </fs>
+         <spanGrp xml:id="spGr49" type="dialogueVerbalSegment">
+            <span from="#w218" />
+            <span from="#w219" />
+            <span from="#w220" />
+         </spanGrp>
+         <fs xml:id="ds49" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp49" />
+         </fs>
+         <spanGrp xml:id="spGr50" type="dialogueVerbalSegment">
+            <span from="#w219" />
+            <span from="#w221" />
+            <span from="#w222" />
+            <span from="#w223" />
+            <span from="#w224" />
+         </spanGrp>
+         <fs xml:id="ds50" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp50" />
+         </fs>
+         <spanGrp xml:id="spGr51" type="dialogueVerbalSegment">
+            <span from="#w225" />
+         </spanGrp>
+         <fs xml:id="ds51" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp51" />
+         </fs>
+         <spanGrp xml:id="spGr52" type="dialogueVerbalSegment">
+            <span from="#w226" />
+            <span from="#w227" />
+            <span from="#w229" />
+            <span from="#w230" />
+            <span from="#w231" />
+         </spanGrp>
+         <fs xml:id="ds52" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp52" />
+         </fs>
+         <spanGrp xml:id="spGr53" type="dialogueVerbalSegment">
+            <span from="#w228" />
+         </spanGrp>
+         <fs xml:id="ds53" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp53" />
+         </fs>
+         <spanGrp xml:id="spGr54" type="dialogueVerbalSegment">
+            <span from="#w232" />
+         </spanGrp>
+         <fs xml:id="ds54" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp54" />
+         </fs>
+         <spanGrp xml:id="spGr55" type="dialogueVerbalSegment">
+            <span from="#w233" />
+            <span from="#w234" />
+            <span from="#w235" />
+            <span from="#w236" />
+            <span from="#w237" />
+            <span from="#w238" />
+            <span from="#w239" />
+            <span from="#w240" />
+            <span from="#w242" />
+            <span from="#w243" />
+            <span from="#w244" />
+            <span from="#w245" />
+            <span from="#w246" />
+            <span from="#w247" />
+            <span from="#w248" />
+            <span from="#w249" />
+            <span from="#w250" />
+            <span from="#w251" />
+            <span from="#w252" />
+            <span from="#w253" />
+            <span from="#w254" />
+            <span from="#w255" />
+            <span from="#w256" />
+         </spanGrp>
+         <fs xml:id="ds55" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp55" />
+         </fs>
+         <spanGrp xml:id="spGr56" type="dialogueVerbalSegment">
+            <span from="#w241" />
+         </spanGrp>
+         <fs xml:id="ds56" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp56" />
+         </fs>
+         <spanGrp xml:id="spGr57" type="dialogueVerbalSegment">
+            <span from="#w257" />
+         </spanGrp>
+         <fs xml:id="ds57" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp57" />
+         </fs>
+         <spanGrp xml:id="spGr58" type="dialogueVerbalSegment">
+            <span from="#w258" />
+            <span from="#w259" />
+            <span from="#w260" />
+            <span from="#w261" />
+            <span from="#w264" />
+            <span from="#w266" />
+            <span from="#w267" />
+            <span from="#w268" />
+            <span from="#w269" />
+            <span from="#w270" />
+            <span from="#w272" />
+            <span from="#w273" />
+            <span from="#w274" />
+            <span from="#w275" />
+            <span from="#w276" />
+            <span from="#w277" />
+            <span from="#w281" />
+            <span from="#w282" />
+            <span from="#w283" />
+            <span from="#w284" />
+            <span from="#w285" />
+            <span from="#w286" />
+            <span from="#w287" />
+            <span from="#w288" />
+         </spanGrp>
+         <fs xml:id="ds58" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp58" />
+         </fs>
+         <spanGrp xml:id="spGr59" type="dialogueVerbalSegment">
+            <span from="#w262" />
+            <span from="#w263" />
+            <span from="#w264" />
+            <span from="#w265" />
+         </spanGrp>
+         <fs xml:id="ds59" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp59" />
+         </fs>
+         <spanGrp xml:id="spGr60" type="dialogueVerbalSegment">
+            <span from="#w271" />
+            <span from="#w272" />
+         </spanGrp>
+         <fs xml:id="ds60" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp60" />
+         </fs>
+         <spanGrp xml:id="spGr61" type="dialogueVerbalSegment">
+            <span from="#w278" />
+            <span from="#w279" />
+            <span from="#w280" />
+         </spanGrp>
+         <fs xml:id="ds61" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp61" />
+         </fs>
+         <spanGrp xml:id="spGr62" type="dialogueVerbalSegment">
+            <span from="#w289" />
+         </spanGrp>
+         <fs xml:id="ds62" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp62" />
+         </fs>
+         <spanGrp xml:id="spGr63" type="dialogueVerbalSegment">
+            <span from="#w290" />
+            <span from="#w291" />
+            <span from="#w292" />
+            <span from="#w293" />
+            <span from="#w294" />
+            <span from="#w295" />
+            <span from="#w298" />
+            <span from="#w300" />
+            <span from="#w301" />
+            <span from="#w302" />
+         </spanGrp>
+         <fs xml:id="ds63" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp63" />
+         </fs>
+         <spanGrp xml:id="spGr64" type="dialogueVerbalSegment">
+            <span from="#w296" />
+            <span from="#w297" />
+            <span from="#w298" />
+         </spanGrp>
+         <fs xml:id="ds64" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp64" />
+         </fs>
+         <spanGrp xml:id="spGr65" type="dialogueVerbalSegment">
+            <span from="#w299" />
+            <span from="#w300" />
+            <span from="#w301" />
+         </spanGrp>
+         <fs xml:id="ds65" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp65" />
+         </fs>
+         <spanGrp xml:id="spGr66" type="dialogueVerbalSegment">
+            <span from="#w303" />
+         </spanGrp>
+         <fs xml:id="ds66" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp66" />
+         </fs>
+         <spanGrp xml:id="spGr67" type="dialogueVerbalSegment">
+            <span from="#w304" />
+         </spanGrp>
+         <fs xml:id="ds67" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp67" />
+         </fs>
+         <spanGrp xml:id="spGr68" type="dialogueVerbalSegment">
+            <span from="#w305" />
+            <span from="#w306" />
+            <span from="#w310" />
+            <span from="#w311" />
+            <span from="#w312" />
+            <span from="#w313" />
+            <span from="#w314" />
+            <span from="#w315" />
+            <span from="#w316" />
+            <span from="#w317" />
+            <span from="#w318" />
+            <span from="#w319" />
+            <span from="#w320" />
+            <span from="#w321" />
+            <span from="#w322" />
+            <span from="#w325" />
+         </spanGrp>
+         <fs xml:id="ds68" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp68" />
+         </fs>
+         <spanGrp xml:id="spGr69" type="dialogueVerbalSegment">
+            <span from="#w307" />
+            <span from="#w308" />
+         </spanGrp>
+         <fs xml:id="ds69" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp69" />
+         </fs>
+         <spanGrp xml:id="spGr70" type="dialogueVerbalSegment">
+            <span from="#w308" />
+            <span from="#w309" />
+            <span from="#w310" />
+            <span from="#w311" />
+            <span from="#w312" />
+            <span from="#w313" />
+         </spanGrp>
+         <fs xml:id="ds70" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp70" />
+         </fs>
+         <spanGrp xml:id="spGr71" type="dialogueVerbalSegment">
+            <span from="#w323" />
+            <span from="#w325" />
+         </spanGrp>
+         <fs xml:id="ds71" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp71" />
+         </fs>
+         <spanGrp xml:id="spGr72" type="dialogueVerbalSegment">
+            <span from="#w324" />
+         </spanGrp>
+         <fs xml:id="ds72" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp72" />
+         </fs>
+         <spanGrp xml:id="spGr73" type="dialogueVerbalSegment">
+            <span from="#w326" />
+         </spanGrp>
+         <fs xml:id="ds73" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp73" />
+         </fs>
+         <spanGrp xml:id="spGr74" type="dialogueVerbalSegment">
+            <span from="#w327" />
+         </spanGrp>
+         <fs xml:id="ds74" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp74" />
+         </fs>
+         <spanGrp xml:id="spGr75" type="dialogueVerbalSegment">
+            <span from="#w328" />
+            <span from="#w329" />
+            <span from="#w330" />
+         </spanGrp>
+         <fs xml:id="ds75" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp75" />
+         </fs>
+         <spanGrp xml:id="spGr76" type="dialogueVerbalSegment">
+            <span from="#w331" />
+            <span from="#w332" />
+            <span from="#w333" />
+            <span from="#w334" />
+            <span from="#w335" />
+         </spanGrp>
+         <fs xml:id="ds76" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp76" />
+         </fs>
+         <spanGrp xml:id="spGr77" type="dialogueVerbalSegment">
+            <span from="#w336" />
+         </spanGrp>
+         <fs xml:id="ds77" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp77" />
+         </fs>
+         <spanGrp xml:id="spGr78" type="dialogueVerbalSegment">
+            <span from="#w337" />
+         </spanGrp>
+         <fs xml:id="ds78" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp78" />
+         </fs>
+         <spanGrp xml:id="spGr79" type="dialogueVerbalSegment">
+            <span from="#w338" />
+            <span from="#w339" />
+            <span from="#w340" />
+            <span from="#w341" />
+            <span from="#w342" />
+            <span from="#w343" />
+            <span from="#w344" />
+            <span from="#w345" />
+            <span from="#w347" />
+            <span from="#w348" />
+            <span from="#w349" />
+            <span from="#w350" />
+            <span from="#w351" />
+            <span from="#w352" />
+            <span from="#w353" />
+            <span from="#w354" />
+            <span from="#w355" />
+            <span from="#w356" />
+            <span from="#w357" />
+            <span from="#w358" />
+            <span from="#w359" />
+            <span from="#w360" />
+            <span from="#w361" />
+            <span from="#w362" />
+         </spanGrp>
+         <fs xml:id="ds79" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp79" />
+         </fs>
+         <spanGrp xml:id="spGr80" type="dialogueVerbalSegment">
+            <span from="#w346" />
+            <span from="#w347" />
+         </spanGrp>
+         <fs xml:id="ds80" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp80" />
+         </fs>
+         <spanGrp xml:id="spGr81" type="dialogueVerbalSegment">
+            <span from="#w364" />
+         </spanGrp>
+         <fs xml:id="ds81" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp81" />
+         </fs>
+         <spanGrp xml:id="spGr82" type="dialogueVerbalSegment">
+            <span from="#w365" />
+         </spanGrp>
+         <fs xml:id="ds82" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp82" />
+         </fs>
+         <spanGrp xml:id="spGr83" type="dialogueVerbalSegment">
+            <span from="#w366" />
+            <span from="#w367" />
+            <span from="#w368" />
+            <span from="#w369" />
+            <span from="#w370" />
+         </spanGrp>
+         <fs xml:id="ds83" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp83" />
+         </fs>
+         <spanGrp xml:id="spGr84" type="dialogueVerbalSegment">
+            <span from="#w370" />
+            <span from="#w371" />
+            <span from="#w372" />
+            <span from="#w373" />
+            <span from="#w374" />
+            <span from="#w375" />
+            <span from="#w376" />
+            <span from="#w377" />
+            <span from="#w378" />
+         </spanGrp>
+         <fs xml:id="ds84" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp84" />
+         </fs>
+         <spanGrp xml:id="spGr85" type="dialogueVerbalSegment">
+            <span from="#w379" />
+         </spanGrp>
+         <fs xml:id="ds85" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp85" />
+         </fs>
+         <spanGrp xml:id="spGr86" type="dialogueVerbalSegment">
+            <span from="#w380" />
+         </spanGrp>
+         <fs xml:id="ds86" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp86" />
+         </fs>
+         <spanGrp xml:id="spGr87" type="dialogueVerbalSegment">
+            <span from="#w381" />
+            <span from="#w382" />
+            <span from="#w383" />
+            <span from="#w384" />
+            <span from="#w385" />
+            <span from="#w386" />
+            <span from="#w387" />
+            <span from="#w388" />
+            <span from="#w389" />
+            <span from="#w391" />
+         </spanGrp>
+         <fs xml:id="ds87" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp87" />
+         </fs>
+         <spanGrp xml:id="spGr88" type="dialogueVerbalSegment">
+            <span from="#w390" />
+         </spanGrp>
+         <fs xml:id="ds88" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp88" />
+         </fs>
+         <spanGrp xml:id="spGr89" type="dialogueVerbalSegment">
+            <span from="#w392" />
+            <span from="#w393" />
+         </spanGrp>
+         <fs xml:id="ds89" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp89" />
+         </fs>
+         <spanGrp xml:id="spGr90" type="dialogueVerbalSegment">
+            <span from="#w394" />
+            <span from="#w395" />
+            <span from="#w396" />
+            <span from="#w397" />
+         </spanGrp>
+         <fs xml:id="ds90" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp90" />
+         </fs>
+         <spanGrp xml:id="spGr91" type="dialogueVerbalSegment">
+            <span from="#w399" />
+         </spanGrp>
+         <fs xml:id="ds91" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp91" />
+         </fs>
+         <spanGrp xml:id="spGr92" type="dialogueVerbalSegment">
+            <span from="#w400" />
+         </spanGrp>
+         <fs xml:id="ds92" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp92" />
+         </fs>
+         <spanGrp xml:id="spGr93" type="dialogueVerbalSegment">
+            <span from="#w401" />
+            <span from="#w402" />
+            <span from="#w403" />
+         </spanGrp>
+         <fs xml:id="ds93" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp93" />
+         </fs>
+         <spanGrp xml:id="spGr94" type="dialogueVerbalSegment">
+            <span from="#w404" />
+            <span from="#w405" />
+            <span from="#w406" />
+            <span from="#w407" />
+            <span from="#w408" />
+            <span from="#w409" />
+            <span from="#w410" />
+            <span from="#w411" />
+            <span from="#w412" />
+            <span from="#w413" />
+            <span from="#w414" />
+            <span from="#w415" />
+            <span from="#w416" />
+            <span from="#w417" />
+            <span from="#w419" />
+            <span from="#w420" />
+            <span from="#w421" />
+            <span from="#w422" />
+            <span from="#w423" />
+         </spanGrp>
+         <fs xml:id="ds94" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp94" />
+         </fs>
+         <spanGrp xml:id="spGr95" type="dialogueVerbalSegment">
+            <span from="#w418" />
+            <span from="#w419" />
+         </spanGrp>
+         <fs xml:id="ds95" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp95" />
+         </fs>
+         <spanGrp xml:id="spGr96" type="dialogueVerbalSegment">
+            <span from="#w425" />
+         </spanGrp>
+         <fs xml:id="ds96" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp96" />
+         </fs>
+         <spanGrp xml:id="spGr97" type="dialogueVerbalSegment">
+            <span from="#w426" />
+            <span from="#w427" />
+            <span from="#w428" />
+            <span from="#w429" />
+            <span from="#w430" />
+            <span from="#w431" />
+            <span from="#w433" />
+            <span from="#w434" />
+            <span from="#w435" />
+            <span from="#w436" />
+            <span from="#w437" />
+            <span from="#w438" />
+            <span from="#w439" />
+            <span from="#w440" />
+            <span from="#w441" />
+            <span from="#w442" />
+            <span from="#w443" />
+            <span from="#w444" />
+            <span from="#w445" />
+            <span from="#w446" />
+            <span from="#w447" />
+            <span from="#w448" />
+            <span from="#w449" />
+            <span from="#w450" />
+            <span from="#w451" />
+            <span from="#w452" />
+            <span from="#w453" />
+            <span from="#w454" />
+            <span from="#w455" />
+            <span from="#w456" />
+            <span from="#w457" />
+            <span from="#w458" />
+            <span from="#w459" />
+            <span from="#w460" />
+            <span from="#w461" />
+            <span from="#w462" />
+            <span from="#w463" />
+            <span from="#w464" />
+            <span from="#w465" />
+            <span from="#w466" />
+         </spanGrp>
+         <fs xml:id="ds97" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp97" />
+         </fs>
+         <spanGrp xml:id="spGr98" type="dialogueVerbalSegment">
+            <span from="#w432" />
+         </spanGrp>
+         <fs xml:id="ds98" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp98" />
+         </fs>
+         <spanGrp xml:id="spGr99" type="dialogueVerbalSegment">
+            <span from="#w467" />
+         </spanGrp>
+         <fs xml:id="ds99" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp99" />
+         </fs>
+         <spanGrp xml:id="spGr100" type="dialogueVerbalSegment">
+            <span from="#w468" />
+         </spanGrp>
+         <fs xml:id="ds100" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp100" />
+         </fs>
+         <spanGrp xml:id="spGr101" type="dialogueVerbalSegment">
+            <span from="#w469" />
+            <span from="#w470" />
+            <span from="#w471" />
+            <span from="#w472" />
+            <span from="#w473" />
+            <span from="#w474" />
+            <span from="#w475" />
+            <span from="#w476" />
+            <span from="#w477" />
+            <span from="#w478" />
+            <span from="#w479" />
+            <span from="#w480" />
+            <span from="#w481" />
+            <span from="#w482" />
+            <span from="#w483" />
+            <span from="#w484" />
+            <span from="#w485" />
+            <span from="#w486" />
+            <span from="#w487" />
+            <span from="#w488" />
+            <span from="#w489" />
+         </spanGrp>
+         <fs xml:id="ds101" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp101" />
+         </fs>
+         <spanGrp xml:id="spGr102" type="dialogueVerbalSegment">
+            <span from="#w490" />
+         </spanGrp>
+         <fs xml:id="ds102" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp102" />
+         </fs>
+         <spanGrp xml:id="spGr103" type="dialogueVerbalSegment">
+            <span from="#w491" />
+         </spanGrp>
+         <fs xml:id="ds103" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp103" />
+         </fs>
+         <spanGrp xml:id="spGr104" type="dialogueVerbalSegment">
+            <span from="#w491" />
+            <span from="#w492" />
+            <span from="#w493" />
+            <span from="#w494" />
+            <span from="#w495" />
+            <span from="#w496" />
+         </spanGrp>
+         <fs xml:id="ds104" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp104" />
+         </fs>
+         <spanGrp xml:id="spGr105" type="dialogueVerbalSegment">
+            <span from="#w497" />
+            <span from="#w498" />
+            <span from="#w499" />
+         </spanGrp>
+         <fs xml:id="ds105" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp105" />
+         </fs>
+         <spanGrp xml:id="spGr106" type="dialogueVerbalSegment">
+            <span from="#w500" />
+         </spanGrp>
+         <fs xml:id="ds106" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp106" />
+         </fs>
+         <spanGrp xml:id="spGr107" type="dialogueVerbalSegment">
+            <span from="#w501" />
+            <span from="#w502" />
+         </spanGrp>
+         <fs xml:id="ds107" type="dialogueSegment">
+            <f name="verbalComponent" fVal="#spGrp107" />
+         </fs>
+      </div>
+      <diaml xmlns="http://www.iso.org/diaml">
+         <dialogueAct xml:id="da1" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds1" dimension="social" function="initialGreeting" />
+         <dialogueAct xml:id="da2" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds2" dimension="social" function="returnGreeting" />
+         <dialogueAct xml:id="da3" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds3" dimension="subject" function="openQuestion" />
+         <dialogueAct xml:id="da4" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds3" dimension="turnManagement" function="turnAssign" />
+         <dialogueAct xml:id="da5" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds4" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da6" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds4" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da7" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds5" dimension="subject" function="answer" functionalDependence="#da3" />
+         <dialogueAct xml:id="da8" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds6" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da9" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds7" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da10" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds8" dimension="subject" function="answer" functionalDependence="#da3" />
+         <dialogueAct xml:id="da11" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds9" dimension="subject" function="answer" functionalDependence="#da3" />
+         <dialogueAct xml:id="da12" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds10" dimension="feedback" function="positiveFeedback" feedbackDependence="#da7 #da10 #da11" />
+         <dialogueAct xml:id="da13" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds11" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da14" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds12" dimension="subject" function="openQuestion" />
+         <dialogueAct xml:id="da15" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds13" dimension="feedback" function="turnTake" />
+         <dialogueAct xml:id="da16" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds13" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da17" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds14" dimension="subject" function="answer" functionalDependence="#da14" />
+         <dialogueAct xml:id="da18" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds15" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da19" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds15" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da20" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds16" dimension="feedback" function="positiveFeedback" feedbackDependence="#da17" />
+         <dialogueAct xml:id="da21" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds17" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da22" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds18" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da23" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds19" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da24" sender="#Anne" addressee="#" dialogSegment="#ds20" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da25" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds21" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da26" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds22" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da27" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds23" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da28" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds23" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da29" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds24" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da30" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds25" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da31" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds26" dimension="feedback" function="positiveFeedback" feedbackDependence="#da30" />
+         <dialogueAct xml:id="da32" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds27" dimension="feedback" function="checkQuestion" feedbackDependence="#da31" />
+         <dialogueAct xml:id="da33" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds28" dimension="feedback" function="confirm" feedbackDependence="#da31" />
+         <dialogueAct xml:id="da34" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds29" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da35" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds30" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da36" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds31" dimension="feedback" function="positiveFeedback" feedbackDependence="#da34" />
+         <dialogueAct xml:id="da37" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds32" dimension="subject" function="agreement" functionalDependence="#da34" />
+         <dialogueAct xml:id="da38" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds33" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da39" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds34" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da40" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds35" dimension="turnManagement" function="turnGrab" />
+         <dialogueAct xml:id="da41" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds35" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da42" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds36" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da43" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds37" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da44" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds38" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da45" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds39" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da46" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds40" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da47" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds41" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da48" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds42" dimension="feedback" function="positiveFeedback" feedbackDependence="#da46" />
+         <dialogueAct xml:id="da49" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds43" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da50" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds44" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da51" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds45" dimension="subject" function="agreement" functionalDependence="#da49" />
+         <dialogueAct xml:id="da52" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds46" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da53" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds47" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da54" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds48" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da55" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds49" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da56" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds50" dimension="subject" function="openQuestion" />
+         <dialogueAct xml:id="da57" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds51" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da58" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds51" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da59" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds52" dimension="subject" function="answer" functionalDependence="#da.." />
+         <dialogueAct xml:id="da60" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds53" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da61" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds54" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da62" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds55" dimension="subject" function="answer" functionalDependence="#da56" />
+         <dialogueAct xml:id="da63" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds56" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da64" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds57" dimension="feedback" function="positiveFeedback" feedbackDependence="#da59 #da62" />
+         <dialogueAct xml:id="da65" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds58" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da66" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds59" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da67" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds60" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da68" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds61" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da69" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds62" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da70" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds63" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da71" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds64" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da72" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds65" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da73" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds66" dimension="feedback" function="positiveFeedback" feedbackDependence="#da70" />
+         <dialogueAct xml:id="da74" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds67" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da75" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds68" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da76" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds69" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da77" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds70" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da78" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds71" dimension="speechEdit" function="selfCorrection" />
+         <dialogueAct xml:id="da79" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds72" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da80" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds73" dimension="feedback" function="positiveFeedback" functionalDependence="#da75" />
+         <dialogueAct xml:id="da81" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds74" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da82" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds75" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da83" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds76" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da84" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds77" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da85" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds78" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da86" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds79" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da87" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds80" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da88" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds81" dimension="feedback" function="positiveFeedback" feedbackDependence="#da86" />
+         <dialogueAct xml:id="da89" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds82" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da90" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds83" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da91" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds84" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da92" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds85" dimension="feedback" function="positiveFeedback" feedbackDependence="#da91" />
+         <dialogueAct xml:id="da93" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds86" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da94" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds87" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da95" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds88" dimension="feedback" function="positiveFeedback" feedbackDependence="#da94" />
+         <dialogueAct xml:id="da96" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds89" dimension="feedback" function="positiveFeedback" feedbackDependence="#da94" />
+         <dialogueAct xml:id="da97" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds90" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da98" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds91" dimension="speechEdit" function="correctMisspeaking" functionalDependence="#da97" />
+         <dialogueAct xml:id="da99" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds92" dimension="feedback" function="positiveFeedback" feedbackDependence="#da98" />
+         <dialogueAct xml:id="da100" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds93" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da101" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds94" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da102" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds95" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da103" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds96" dimension="turnManagement" function="turnGrab" />
+         <dialogueAct xml:id="da104" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds97" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da105" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds98" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da106" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds99" dimension="turnManagement" function="turnTake" />
+         <dialogueAct xml:id="da107" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds99" dimension="timeManagement" function="stalling" />
+         <dialogueAct xml:id="da108" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds100" dimension="turnManagement" function="turnKeep" />
+         <dialogueAct xml:id="da109" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds101" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da110" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds102" dimension="subject" function="agreement" functionalDependence="#da109" />
+         <dialogueAct xml:id="da111" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds103" dimension="social" function="apology" />
+         <dialogueAct xml:id="da112" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds104" dimension="subject" function="inform" />
+         <dialogueAct xml:id="da113" sender="#Anne" addressee="#Jimmy" dialogSegment="#ds105" dimension="social" function="initialGoodbye" />
+         <dialogueAct xml:id="da114" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds106" dimension="feedback" function="positiveFeedback" feedbackDependence="#da112" />
+         <dialogueAct xml:id="da115" sender="#Jimmy" addressee="#Anne" dialogSegment="#ds107" dimension="social" function="returnGoodbye" />
+      </diaml>
+   </text>
+</TEI>
