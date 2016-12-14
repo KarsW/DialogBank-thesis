@@ -1,5 +1,18 @@
+UPDATE DECEMBER 14 2016 - 
+
+A new program (executable/.exe file) is now available that allows for the TabSW to XML conversion - without the need for python.
+Download the zip file ('TabSW to XML Converter.zip') --> unzip the .exe file anywhere you want --> open the .exe file --> 
+provide 1) the path the the annotation file (.xlsx), 2) the path to the tokenization file (.txt), 3) the path to the segmentation file (.txt)
+The XML output file will be stored in the same folder that contains the .exe file.
+
+Use an online formatter (for example) such as http://www.webtoolkitonline.com/xml-formatter.html 
+or open the file in a web browser so that the XML file contains Tabs.
+
+
+SEPTEMBER 2016 -
+
 - The file 'db_conversion_main.py' contains the Python script of the main conversion program that allows for conversions between the DiAML-XML, DiAML-MultiTab, and DiAML-TabSW ISO 24617-2 representation formats.
 - The file 'db_conversion_second.py' contains the Python script of the conversion program that allows for conversions between Map Task and DBOX DiAML-XML annotations into slightly adjusted DiAML-MultiTab and DiAML-TabSW representations.
-    - Currently, both scripts can be run in any Pyhton interpreter. In the near future the script may be updated so that more options are available.
+- Currently, both scripts can be run in any Pyhton interpreter. In the near future the script may be updated so that more options are available.
     
 - The file 'formal sw00-0004.docx'contains a formal version of the complete Switchboard dialogue 'sw00-0004'
