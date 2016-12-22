@@ -21,4 +21,4 @@ Program 2 allows for the TabSW to XML conversion.
 
 Windows: https://www.dropbox.com/s/508ydrxr4tn9i5d/TabSW%20to%20XML%20Converter.zip?dl=0 
 
-MacOS: https://www.dropbox.com/home?preview=TabSW_to_XML_Converter.zip
+MacOS: https://www.dropbox.com/s/intn4zbb3g5jwmk/TabSW_to_XML_Converter.zip?dl=0
