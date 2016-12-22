@@ -12,9 +12,13 @@ UPDATE DECEMBER  2016 -
 Two new conversions programs (executable/.exe file) are now available. They can be run on any Windows/MacOS system.
 
 Program 1 allows for conversions between all three DiAML representation formats. 
+
 Windows: https://www.dropbox.com/s/kbgm0mongmzd9n2/DiAML_Converter.zip?dl=0
+
 MacOS: https://www.dropbox.com/s/kbgm0mongmzd9n2/DiAML_Converter.zip?dl=0 
 
 Program 2 allows for the TabSW to XML conversion (Windows systems only).
+
 Windows: https://www.dropbox.com/s/508ydrxr4tn9i5d/TabSW%20to%20XML%20Converter.zip?dl=0 
+
 MacOS: https://www.dropbox.com/s/kbgm0mongmzd9n2/DiAML_Converter.zip?dl=0
