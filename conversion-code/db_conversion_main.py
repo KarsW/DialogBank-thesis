@@ -1,3 +1,5 @@
+### This script is outdated. The new DiAML Converter can be found at https://dialogbank.uvt.nl/representation-formats.
+
 import pandas as pd
 import numpy as np
 from operator import itemgetter
