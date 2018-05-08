@@ -5,7 +5,7 @@ Here you can find all the documents related to the MA thesis "Annotation Represe
 - The 'dialogues' folder contains a number of dialogues mentioned in the thesis.
 - The 'experiment' folder contains all files related to the experiment.
 
-You can find the thesis here: https://dialogbank.uvt.nl/wp-content/uploads/tdb/2016/10/Master_Thesis_Wijnhoven_Kars_295543.pdf
+You can find the thesis here: https://dialogbank.uvt.nl/wp-content/uploads/tdb/2015/12/MA_Thesis_Wijnhoven_295543-submitted.docx
 
 UPDATE MAY 2018 - 
 
