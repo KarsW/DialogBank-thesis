@@ -7,18 +7,18 @@ Here you can find all the documents related to the MA thesis "Annotation Represe
 
 You can find the thesis here: https://dialogbank.uvt.nl/wp-content/uploads/tdb/2016/10/Master_Thesis_Wijnhoven_Kars_295543.pdf
 
-UPDATE DECEMBER  2016 - 
+UPDATE MAY 2018 - 
 
 Two new conversions programs (executable/.exe file) are now available. They can be run on any Windows/MacOS system.
 
 Program 1 allows for conversions between all three DiAML representation formats. 
 
-Windows: https://www.dropbox.com/s/m1m7bfnc0iztupw/DiAML_Converter_Windows.rar?dl=0
+Windows: https://www.dropbox.com/s/80nfv324m1qxjr7/DiAML_Converter?dl=0
 
-MacOS: https://www.dropbox.com/s/kbgm0mongmzd9n2/DiAML_Converter_Mac.zip?dl=0
+MacOS: https://www.dropbox.com/s/zzra8pj25r3rogp/DiAML_Converter_Mac.zip?dl=0
 
 Program 2 allows for the TabSW to XML conversion.
 
-Windows: https://www.dropbox.com/s/508ydrxr4tn9i5d/TabSW%20to%20XML%20Converter_Windows.zip?dl=0
+Windows: https://www.dropbox.com/s/ntnk8jx2byoifl9/TabSW%20to%20XML%20Converter_Windows.zip?dl=0
 
-MacOS: https://www.dropbox.com/s/intn4zbb3g5jwmk/TabSW_to_XML_Converter_Mac.zip?dl=0
+MacOS: https://www.dropbox.com/s/7rsi0uhoe9xn4ro/TabSW_to_XML_Converter_Mac.zip?dl=0
