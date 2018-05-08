@@ -13,7 +13,7 @@ Two new conversions programs (executable/.exe file) are now available. They can 
 
 Program 1 allows for conversions between all three DiAML representation formats. 
 
-Windows: https://www.dropbox.com/s/80nfv324m1qxjr7/DiAML_Converter?dl=0
+Windows: https://www.dropbox.com/s/hd1dnz31dpzsx4r/DiAML_Converter_Windows.rar?dl=0
 
 MacOS: https://www.dropbox.com/s/zzra8pj25r3rogp/DiAML_Converter_Mac.zip?dl=0
 
