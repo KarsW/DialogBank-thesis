@@ -9,5 +9,6 @@ jobs:
         uses: IQSS/dataverse-uploader@v1.3
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
-          DATAVERSE_SERVER: https://demo.dataverse.nl/
-          DATAVERSE_DATASET_DOI: doi:10.80227/test-XCCDOB
+          DATAVERSE_SERVER: https://dataverse.nl/
+          DATAVERSE_DATASET_DOI: doi:10.34894/AV1QYE
+          GITHUB_DIR: dialogues
