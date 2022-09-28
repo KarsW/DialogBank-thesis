@@ -1,5 +1,5 @@
 on: 
-  release:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -8,6 +8,6 @@ jobs:
       - name: Send repo to Dataverse 
         uses: IQSS/dataverse-uploader@v1.3
         with:
-          DATAVERSE_TOKEN: 01c82fb2-8107-48ef-aec4-34f74f5343b5
-          DATAVERSE_SERVER: https://demo.dataverse.org
+          DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
+          DATAVERSE_SERVER: https://demo.dataverse.nl/dataverse/Tilburg
           DATAVERSE_DATASET_DOI: doi:10.80227/test-XCCDOB
