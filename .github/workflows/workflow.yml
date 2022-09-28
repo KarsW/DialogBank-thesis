@@ -9,5 +9,5 @@ jobs:
         uses: IQSS/dataverse-uploader@v1.3
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
-          DATAVERSE_SERVER: https://demo.dataverse.nl/dataverse/Tilburg
+          DATAVERSE_SERVER: https://demo.dataverse.nl/
           DATAVERSE_DATASET_DOI: doi:10.80227/test-XCCDOB
