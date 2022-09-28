@@ -1,0 +1,13 @@
+on: 
+  release:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repo to Dataverse 
+        uses: IQSS/dataverse-uploader@v1.3
+        with:
+          DATAVERSE_TOKEN: 01c82fb2-8107-48ef-aec4-34f74f5343b5
+          DATAVERSE_SERVER: https://demo.dataverse.org
+          DATAVERSE_DATASET_DOI: doi:10.80227/test-XCCDOB
